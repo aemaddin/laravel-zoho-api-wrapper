@@ -68,7 +68,7 @@ class ZohoServiceProvider extends ServiceProvider
     {
         return [
             'prefix' => '/',
-            'namespace' => 'aemaddin\Zoho\Controllers',
+            'namespace' => 'Aemaddin\Zoho\Controllers',
         ];
     }
 
